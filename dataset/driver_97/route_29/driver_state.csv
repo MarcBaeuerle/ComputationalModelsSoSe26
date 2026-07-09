@@ -1,0 +1,2 @@
+time_s,face_yaw,face_pitch,face_roll,face_pos_x,face_pos_y,faceProb,leftEyeProb,rightEyeProb,leftBlinkProb,rightBlinkProb,sunglassesProb,occludedProb,readyProb_0,readyProb_1,readyProb_2,readyProb_3,notReadyProb_0,notReadyProb_1,poorVisionProb,awarenessStatus,isDistracted,distractedType,faceDetected,isRHD
+0.000000,0.084554,0.317943,-0.032931,0.126968,-0.028058,0.967443,0.412023,0.414546,0.633935,0.663691,0.998810,0.000000,,,,,,,0.000000,1.000000,0,0,1,0

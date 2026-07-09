@@ -1,0 +1,8 @@
+NaN handling and imputation placeholders
+
+- Missingness is measured directly in pre_event_missingness.csv.
+- Histograms and target plots drop NaNs only for the specific variable being plotted.
+- Event-level pre-window summaries use pandas mean/max/std, which skip NaNs within event windows.
+- Feature-to-target correlations use pairwise complete observations.
+- The clustered heatmap computes pairwise correlations, then fills unresolved correlation cells with 0 only for plotting/clustering.
+- No global imputation is applied in this EDA script. Add model-specific imputation after inspecting missingness patterns.

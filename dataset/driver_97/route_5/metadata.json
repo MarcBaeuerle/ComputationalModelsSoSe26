@@ -1,0 +1,63 @@
+{
+  "car_model": "HONDA_CIVIC",
+  "dongle_id": "driver_97",
+  "route_id": "route_5",
+  "segment_range": [
+    0,
+    6
+  ],
+  "n_segments": 7,
+  "total_duration_s": 420.33,
+  "group_t_start_ns": 26618034155,
+  "group_t_end_ns": 446948160817,
+  "segments": [
+    {
+      "seg_num": 0,
+      "log_type": "rlog",
+      "duration_s": 60.318
+    },
+    {
+      "seg_num": 1,
+      "log_type": "rlog",
+      "duration_s": 59.999
+    },
+    {
+      "seg_num": 2,
+      "log_type": "rlog",
+      "duration_s": 59.994
+    },
+    {
+      "seg_num": 3,
+      "log_type": "rlog",
+      "duration_s": 59.994
+    },
+    {
+      "seg_num": 4,
+      "log_type": "rlog",
+      "duration_s": 60.005
+    },
+    {
+      "seg_num": 5,
+      "log_type": "rlog",
+      "duration_s": 59.993
+    },
+    {
+      "seg_num": 6,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    }
+  ],
+  "carParams": {
+    "carFingerprint": "HONDA_CIVIC_BOSCH",
+    "carName": "honda",
+    "carVin": "00000000000000000",
+    "mass": 1462.0,
+    "wheelbase": 2.700000047683716,
+    "centerToFront": 1.0800000429153442,
+    "steerRatio": 15.380000114440918,
+    "tireStiffnessFactor": 1.0,
+    "openpilotLongitudinalControl": false,
+    "pcmCruise": true,
+    "transmissionType": "unknown"
+  }
+}

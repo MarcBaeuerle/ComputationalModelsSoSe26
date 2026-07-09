@@ -1,0 +1,2 @@
+time_s,gps_lat,gps_lon,gps_alt,gps_speed,gps_bearing,gps_hAcc,gps_vAcc,gps_speedAcc,gps_bearingAcc,gps_unixTimestamp,gps_hasFix,gps_source,gps_flags,gps_phone_lat,gps_phone_lon,gps_phone_alt,gps_phone_speed,gps_phone_bearing,gps_phone_hAcc,gps_phone_hasFix
+0.000000,,,,,,,,,,,,,,25.907629,-80.209906,-19.079667,24.152320,358.587400,0.000000,1

@@ -1,0 +1,2 @@
+time_s,model_desiredCurvature,model_desiredAcceleration,laneLeft_prob,laneRight_prob,laneLeft_y,laneRight_y,laneChangeState,laneChangeDirection,aTarget,shouldStop,hasLead,fcw,longPlanSource
+0.000000,-0.000258,,0.971817,0.954015,-1.921355,1.400724,off,none,-0.376593,0,1,0,lead1

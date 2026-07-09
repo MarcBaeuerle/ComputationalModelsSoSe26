@@ -1,0 +1,483 @@
+{
+  "car_model": "HONDA_CIVIC",
+  "dongle_id": "driver_97",
+  "route_id": "route_21",
+  "segment_range": [
+    0,
+    90
+  ],
+  "n_segments": 91,
+  "total_duration_s": 5405.189,
+  "group_t_start_ns": 31173141237,
+  "group_t_end_ns": 5436362214800,
+  "segments": [
+    {
+      "seg_num": 0,
+      "log_type": "rlog",
+      "duration_s": 60.66
+    },
+    {
+      "seg_num": 1,
+      "log_type": "rlog",
+      "duration_s": 59.998
+    },
+    {
+      "seg_num": 2,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 3,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 4,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 5,
+      "log_type": "rlog",
+      "duration_s": 59.999
+    },
+    {
+      "seg_num": 6,
+      "log_type": "rlog",
+      "duration_s": 59.993
+    },
+    {
+      "seg_num": 7,
+      "log_type": "rlog",
+      "duration_s": 60.007
+    },
+    {
+      "seg_num": 8,
+      "log_type": "rlog",
+      "duration_s": 59.991
+    },
+    {
+      "seg_num": 9,
+      "log_type": "rlog",
+      "duration_s": 60.009
+    },
+    {
+      "seg_num": 10,
+      "log_type": "rlog",
+      "duration_s": 60.014
+    },
+    {
+      "seg_num": 11,
+      "log_type": "rlog",
+      "duration_s": 59.991
+    },
+    {
+      "seg_num": 12,
+      "log_type": "rlog",
+      "duration_s": 59.995
+    },
+    {
+      "seg_num": 13,
+      "log_type": "rlog",
+      "duration_s": 60.003
+    },
+    {
+      "seg_num": 14,
+      "log_type": "rlog",
+      "duration_s": 60.001
+    },
+    {
+      "seg_num": 15,
+      "log_type": "rlog",
+      "duration_s": 59.992
+    },
+    {
+      "seg_num": 16,
+      "log_type": "rlog",
+      "duration_s": 60.025
+    },
+    {
+      "seg_num": 17,
+      "log_type": "rlog",
+      "duration_s": 59.987
+    },
+    {
+      "seg_num": 18,
+      "log_type": "rlog",
+      "duration_s": 59.996
+    },
+    {
+      "seg_num": 19,
+      "log_type": "rlog",
+      "duration_s": 59.99
+    },
+    {
+      "seg_num": 20,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 21,
+      "log_type": "rlog",
+      "duration_s": 60.009
+    },
+    {
+      "seg_num": 22,
+      "log_type": "rlog",
+      "duration_s": 59.994
+    },
+    {
+      "seg_num": 23,
+      "log_type": "rlog",
+      "duration_s": 60.006
+    },
+    {
+      "seg_num": 24,
+      "log_type": "rlog",
+      "duration_s": 59.993
+    },
+    {
+      "seg_num": 25,
+      "log_type": "rlog",
+      "duration_s": 59.999
+    },
+    {
+      "seg_num": 26,
+      "log_type": "rlog",
+      "duration_s": 59.996
+    },
+    {
+      "seg_num": 27,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 28,
+      "log_type": "rlog",
+      "duration_s": 59.995
+    },
+    {
+      "seg_num": 29,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 30,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 31,
+      "log_type": "rlog",
+      "duration_s": 59.991
+    },
+    {
+      "seg_num": 32,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 33,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 34,
+      "log_type": "rlog",
+      "duration_s": 60.003
+    },
+    {
+      "seg_num": 35,
+      "log_type": "rlog",
+      "duration_s": 60.001
+    },
+    {
+      "seg_num": 36,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 37,
+      "log_type": "rlog",
+      "duration_s": 59.996
+    },
+    {
+      "seg_num": 38,
+      "log_type": "rlog",
+      "duration_s": 60.001
+    },
+    {
+      "seg_num": 39,
+      "log_type": "rlog",
+      "duration_s": 59.995
+    },
+    {
+      "seg_num": 40,
+      "log_type": "rlog",
+      "duration_s": 60.002
+    },
+    {
+      "seg_num": 41,
+      "log_type": "rlog",
+      "duration_s": 59.995
+    },
+    {
+      "seg_num": 42,
+      "log_type": "rlog",
+      "duration_s": 59.996
+    },
+    {
+      "seg_num": 43,
+      "log_type": "rlog",
+      "duration_s": 60.004
+    },
+    {
+      "seg_num": 44,
+      "log_type": "rlog",
+      "duration_s": 59.997
+    },
+    {
+      "seg_num": 45,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 46,
+      "log_type": "rlog",
+      "duration_s": 59.992
+    },
+    {
+      "seg_num": 47,
+      "log_type": "rlog",
+      "duration_s": 60.003
+    },
+    {
+      "seg_num": 48,
+      "log_type": "rlog",
+      "duration_s": 59.997
+    },
+    {
+      "seg_num": 49,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 50,
+      "log_type": "rlog",
+      "duration_s": 59.999
+    },
+    {
+      "seg_num": 51,
+      "log_type": "rlog",
+      "duration_s": 59.997
+    },
+    {
+      "seg_num": 52,
+      "log_type": "rlog",
+      "duration_s": 60.004
+    },
+    {
+      "seg_num": 53,
+      "log_type": "rlog",
+      "duration_s": 59.996
+    },
+    {
+      "seg_num": 54,
+      "log_type": "rlog",
+      "duration_s": 59.999
+    },
+    {
+      "seg_num": 55,
+      "log_type": "rlog",
+      "duration_s": 60.004
+    },
+    {
+      "seg_num": 56,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 57,
+      "log_type": "rlog",
+      "duration_s": 59.997
+    },
+    {
+      "seg_num": 58,
+      "log_type": "rlog",
+      "duration_s": 59.999
+    },
+    {
+      "seg_num": 59,
+      "log_type": "rlog",
+      "duration_s": 59.996
+    },
+    {
+      "seg_num": 60,
+      "log_type": "rlog",
+      "duration_s": 60.004
+    },
+    {
+      "seg_num": 61,
+      "log_type": "rlog",
+      "duration_s": 59.997
+    },
+    {
+      "seg_num": 62,
+      "log_type": "rlog",
+      "duration_s": 59.995
+    },
+    {
+      "seg_num": 63,
+      "log_type": "rlog",
+      "duration_s": 59.995
+    },
+    {
+      "seg_num": 64,
+      "log_type": "rlog",
+      "duration_s": 59.997
+    },
+    {
+      "seg_num": 65,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 66,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 67,
+      "log_type": "rlog",
+      "duration_s": 60.003
+    },
+    {
+      "seg_num": 68,
+      "log_type": "rlog",
+      "duration_s": 60.001
+    },
+    {
+      "seg_num": 69,
+      "log_type": "rlog",
+      "duration_s": 59.993
+    },
+    {
+      "seg_num": 70,
+      "log_type": "rlog",
+      "duration_s": 59.999
+    },
+    {
+      "seg_num": 71,
+      "log_type": "rlog",
+      "duration_s": 59.995
+    },
+    {
+      "seg_num": 72,
+      "log_type": "rlog",
+      "duration_s": 60.004
+    },
+    {
+      "seg_num": 73,
+      "log_type": "rlog",
+      "duration_s": 59.996
+    },
+    {
+      "seg_num": 74,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 75,
+      "log_type": "rlog",
+      "duration_s": 60.008
+    },
+    {
+      "seg_num": 76,
+      "log_type": "rlog",
+      "duration_s": 59.998
+    },
+    {
+      "seg_num": 77,
+      "log_type": "rlog",
+      "duration_s": 59.989
+    },
+    {
+      "seg_num": 78,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 79,
+      "log_type": "rlog",
+      "duration_s": 59.991
+    },
+    {
+      "seg_num": 80,
+      "log_type": "rlog",
+      "duration_s": 60.006
+    },
+    {
+      "seg_num": 81,
+      "log_type": "rlog",
+      "duration_s": 59.996
+    },
+    {
+      "seg_num": 82,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 83,
+      "log_type": "rlog",
+      "duration_s": 59.993
+    },
+    {
+      "seg_num": 84,
+      "log_type": "rlog",
+      "duration_s": 60.001
+    },
+    {
+      "seg_num": 85,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 86,
+      "log_type": "rlog",
+      "duration_s": 60.001
+    },
+    {
+      "seg_num": 87,
+      "log_type": "rlog",
+      "duration_s": 59.996
+    },
+    {
+      "seg_num": 88,
+      "log_type": "rlog",
+      "duration_s": 60.003
+    },
+    {
+      "seg_num": 89,
+      "log_type": "rlog",
+      "duration_s": 60.001
+    },
+    {
+      "seg_num": 90,
+      "log_type": "rlog",
+      "duration_s": 4.332
+    }
+  ],
+  "carParams": {
+    "carFingerprint": "HONDA_CIVIC_BOSCH",
+    "carName": "honda",
+    "carVin": "00000000000000000",
+    "mass": 1462.0,
+    "wheelbase": 2.700000047683716,
+    "centerToFront": 1.0800000429153442,
+    "steerRatio": 15.380000114440918,
+    "tireStiffnessFactor": 1.0,
+    "openpilotLongitudinalControl": false,
+    "pcmCruise": true,
+    "transmissionType": "cvt"
+  }
+}

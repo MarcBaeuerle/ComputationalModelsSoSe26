@@ -1,0 +1,128 @@
+{
+  "car_model": "HONDA_CIVIC",
+  "dongle_id": "driver_97",
+  "route_id": "route_8",
+  "segment_range": [
+    0,
+    19
+  ],
+  "n_segments": 20,
+  "total_duration_s": 1167.658,
+  "group_t_start_ns": 26171729103,
+  "group_t_end_ns": 1193829826157,
+  "segments": [
+    {
+      "seg_num": 0,
+      "log_type": "rlog",
+      "duration_s": 60.057
+    },
+    {
+      "seg_num": 1,
+      "log_type": "rlog",
+      "duration_s": 59.996
+    },
+    {
+      "seg_num": 2,
+      "log_type": "rlog",
+      "duration_s": 60.0
+    },
+    {
+      "seg_num": 3,
+      "log_type": "rlog",
+      "duration_s": 59.992
+    },
+    {
+      "seg_num": 4,
+      "log_type": "rlog",
+      "duration_s": 60.008
+    },
+    {
+      "seg_num": 5,
+      "log_type": "rlog",
+      "duration_s": 59.991
+    },
+    {
+      "seg_num": 6,
+      "log_type": "rlog",
+      "duration_s": 59.999
+    },
+    {
+      "seg_num": 7,
+      "log_type": "rlog",
+      "duration_s": 60.003
+    },
+    {
+      "seg_num": 8,
+      "log_type": "rlog",
+      "duration_s": 59.994
+    },
+    {
+      "seg_num": 9,
+      "log_type": "rlog",
+      "duration_s": 60.005
+    },
+    {
+      "seg_num": 10,
+      "log_type": "rlog",
+      "duration_s": 59.999
+    },
+    {
+      "seg_num": 11,
+      "log_type": "rlog",
+      "duration_s": 59.997
+    },
+    {
+      "seg_num": 12,
+      "log_type": "rlog",
+      "duration_s": 59.995
+    },
+    {
+      "seg_num": 13,
+      "log_type": "rlog",
+      "duration_s": 59.994
+    },
+    {
+      "seg_num": 14,
+      "log_type": "rlog",
+      "duration_s": 60.012
+    },
+    {
+      "seg_num": 15,
+      "log_type": "rlog",
+      "duration_s": 59.988
+    },
+    {
+      "seg_num": 16,
+      "log_type": "rlog",
+      "duration_s": 59.996
+    },
+    {
+      "seg_num": 17,
+      "log_type": "rlog",
+      "duration_s": 60.011
+    },
+    {
+      "seg_num": 18,
+      "log_type": "rlog",
+      "duration_s": 59.997
+    },
+    {
+      "seg_num": 19,
+      "log_type": "rlog",
+      "duration_s": 27.554
+    }
+  ],
+  "carParams": {
+    "carFingerprint": "HONDA_CIVIC_BOSCH",
+    "carName": "honda",
+    "carVin": "00000000000000000",
+    "mass": 1462.0,
+    "wheelbase": 2.700000047683716,
+    "centerToFront": 1.0800000429153442,
+    "steerRatio": 15.380000114440918,
+    "tireStiffnessFactor": 1.0,
+    "openpilotLongitudinalControl": false,
+    "pcmCruise": true,
+    "transmissionType": "unknown"
+  }
+}
